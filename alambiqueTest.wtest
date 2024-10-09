@@ -1,4 +1,3 @@
-import alambique.*
 
 describe "group of tests" {
 
